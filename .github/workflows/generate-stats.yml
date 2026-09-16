@@ -14,7 +14,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
-        ssh-key: ${{ secrets.DEPLOY_KEY }}
+        with:
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
 
       # Each card is rendered twice because the SVG bakes in `text_color`; the
       # README picks between them with <picture media="(prefers-color-scheme: ...)">.
