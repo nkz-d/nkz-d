@@ -124,7 +124,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="140.4"
+          width="140.41"
           height="8"
           fill="#3178c6"
         />
@@ -132,7 +132,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="140.4"
+          x="140.41"
           y="0"
           width="36.61"
           height="8"
@@ -142,7 +142,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="177.01"
+          x="177.01999999999998"
           y="0"
           width="25.87"
           height="8"
@@ -152,9 +152,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="202.88"
+          x="202.89"
           y="0"
-          width="20.75"
+          width="20.74"
           height="8"
           fill="#f1e05a"
         />
@@ -174,7 +174,7 @@
           data-testid="lang-progress"
           x="237.25"
           y="0"
-          width="12.76"
+          width="12.75"
           height="8"
           fill="#f34b7d"
         />
@@ -192,7 +192,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#701516" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Ruby 14.65%
+        Ruby 14.64%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
