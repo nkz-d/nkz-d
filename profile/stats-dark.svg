@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">nekoze&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 4601, Total PRs: 721, Total Issues: 190, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  : 4602, Total PRs: 721, Total Issues: 190, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 85.29752853420312;
+        stroke-dashoffset: 85.29633255244929;
       }
     }
   
